@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🛠️ Technical Skills
 
-<!--
-**KonstantinosDimtsios/KonstantinosDimtsios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages
+- JavaScript
 
-Here are some ideas to get you started:
+### 🌐 Frontend & Web
+- React
+- Next.js
+- HTML5, CSS3
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core Concepts
+- Object-Oriented & Component-Based Design
+- Software Development Fundamentals
+- Problem Solving & Algorithmic Thinking
+
+### 🎮 Game Development
+- Unity Engine
+- C# (Thesis)
+
+### 🗄️ Databases
+- Relational Databases
+- SQL
+
+### ⚙️ Tools & Practices
+- GitHub
+- VSCode
+- Responsive Design
+
+### 🚀 Currently Exploring
+- Advanced React & Next.js Patterns
+- Clean Code & Software Best Practices
