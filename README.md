@@ -1,13 +1,8 @@
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-- JavaScript
-
 ### 🌐 Frontend & Web
-- React
-- Next.js
-- HTML5, CSS3
-- Tailwind CSS
+- JavaScript, React, Next.js
+- HTML5, CSS3, Tailwind CSS
 
 ### 🧠 Core Concepts
 - Object-Oriented & Component-Based Design
