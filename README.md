@@ -5,7 +5,7 @@
 - HTML5, CSS3, Tailwind CSS
 
 ### 🧠 Core Concepts
-- Object-Oriented & Component-Based Design
+- Component-Based Design
 - Software Development Fundamentals
 - Problem Solving & Algorithmic Thinking
 
